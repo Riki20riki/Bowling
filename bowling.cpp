@@ -18,6 +18,6 @@ void SetColor(short Color)
 HANDLE hCon = GetStdHandle(STD_OUTPUT_HANDLE); 
 SetConsoleTextAttribute(hCon,Color); 
 }
-main(){int xp,yp,A[30],
+main(){int xp,yp,A[30],B[30],C[30],D[30],E[30];
  char H;
  
