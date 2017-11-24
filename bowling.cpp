@@ -18,5 +18,5 @@ void SetColor(short Color)
 HANDLE hCon = GetStdHandle(STD_OUTPUT_HANDLE); 
 SetConsoleTextAttribute(hCon,Color); 
 }
-main(){
+main(){int a,b,c,D[50];
  
